@@ -61,4 +61,22 @@ h1 {
 .evidenziato {
   background-color: yellow;
 }
+
+table {
+  border-spacing: 0;
+}
+
+thead {
+  background-color: blue;
+  color: white;
+}
+
+.ultima-colonna {
+  width: 50%;
+}
+
+.dispari {
+  background-color: lightblue;
+}
+
 /*fine articolo*/
