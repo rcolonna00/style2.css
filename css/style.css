@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+}
+
+/*general*/
+/*finegeneral*/
+
+/*header*/
+header {
+  background-color: lightblue;
+  background-image: url("../img/pattern.png");
+  background-size: 350px;
+}
+.contenitore {
+  width: 1024px;
+  margin: auto;
+}
+
+.logo {
+  height: 50px;
+  margin-top: 15px;
+}
+/*fine header*/
