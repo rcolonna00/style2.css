@@ -82,13 +82,18 @@ thead {
 /*fine articolo*/
 
 /*allegati*/
+
+.interessi {
+  color: grey;
+}
+
 .prodotti {
   width: 200px;
   height: 150px;
   color: white;
   font-size: 20px;
   backgroun-size: cover;
-  margin-top: 20px;
+  margin-top: 15px;
 }
 
 #postazione {
