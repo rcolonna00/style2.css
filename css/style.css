@@ -3,7 +3,16 @@
 }
 
 /*general*/
-/*finegeneral*/
+.contenitore {
+  width: 1024px;
+  margin: auto;
+}
+
+main {
+  margin-top: 20px;
+}
+
+/*fine general*/
 
 /*header*/
 header {
@@ -11,13 +20,39 @@ header {
   background-image: url("../img/pattern.png");
   background-size: 350px;
 }
-.contenitore {
-  width: 1024px;
-  margin: auto;
-}
 
 .logo {
   height: 50px;
   margin-top: 15px;
 }
+
 /*fine header*/
+h1 {
+  font-size: 40px;
+  line-height: 35px;
+}
+
+.autore {
+  margin-top: 5px;
+  color: grey;
+}
+
+.autore span {
+  color: blue;
+}
+
+.data {
+  font-size: 12px;
+  color: grey;
+}
+
+.img {
+  margin-top: 20px;
+}
+
+.descrizione {
+  font-size: 13px;
+}
+/*section*/
+
+/*fine section*/
